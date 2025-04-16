@@ -5,7 +5,8 @@
 ## Contents
 
 - [Learn Programming Languages](#learn-programming-languages)
-
+- [Machine Learning](#machine-learning)
+- [Generative AI](#generative-ai)
 
 ## Learn Programming Languages
 - [Python](https://pythontutor.com/)
@@ -13,3 +14,7 @@
 - [Mix](https://www.freecodecamp.org/)
 - [Mix](https://programiz.pro/)
 - [SQL](https://sqlbolt.com/)
+
+## Machine Learning
+
+## Generative AI
