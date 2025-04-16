@@ -7,7 +7,7 @@
 - [Learn Programming Languages](#learn-programming-languages)
 
 
-## Learn Programmng Languages
+## Learn Programming Languages
 - [Python](https://pythontutor.com/)
 - [Java](https://cscircles.cemc.uwaterloo.ca/java_visualize/)
 - [Mix](https://www.freecodecamp.org/)
